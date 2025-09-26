@@ -604,9 +604,9 @@
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
         },
-        "JSRAInmob Pool": {
-             "name"  : "JSRAInmob",
-"https://github.com/JSRAInmob"
+        "/JSRAInmob Pool/": {
+            "name" : "JSRAInmob Pool",
+            "https://X.com/JSRAInmob/"
         }
     },
     "payout_addresses" : {
@@ -1341,11 +1341,10 @@
         "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
-        }
-
-"19QYU1P2TLBe1TugJWVTo4XtZe9ZxAEyvu": {
+        },
+        "19QYU1P2TLBe1TugJWVTo4XtZe9ZxAEyvu": {
             "name": "JSRAInmob Pool",
-            "link": "https://github.com/JSRAInmob"
+            "link": "https://X.com/JSRAInmob/"
         }
     },
     "slugs": {
@@ -1366,7 +1365,7 @@
         "A-XBT": "axbt",
         "ASICMiner": "asicminer",
         "BitMinter": "bitminter",
-        "JSRAInmob": "jsrainmob",
+        "JSRAInmob Pool": "jsrainmobpool",
         "BitcoinRussia": "bitcoinrussia",
         "BTCServ": "btcserv",
         "simplecoin.us": "simplecoinus",
