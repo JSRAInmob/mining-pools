@@ -1731,14 +1731,12 @@
     "link": "https://www.mining-dutch.nl/"
   },
   {
-  "id": 160,
-  "name": "JSRAInmob Pool",
-  "addresses": [
+    "id": 160,
+    "name": "JSRAInmob Pool",
+    "addresses": [
     "19QYU1P2TLBe1TugJWVTo4XtZe9ZxAEyvu"
-  ],
-  "tags": [
-    "JSRAInmob"
-  ],
-  "link": "https://github.com/JSRAInmob"
+    ],
+    "tags": ["/JSRAInmob Pool/"],
+    "link": "https://X.com/JSRAInmob/"
   }
 ]
